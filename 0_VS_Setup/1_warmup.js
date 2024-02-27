@@ -2,6 +2,8 @@
 // Let's get familiar with VS Code. //
 //////////////////////////////////////
 
+
+
 // Note: this code is relevant only for the editor Visual Studio Code.
 // https://code.visualstudio.com/
 
@@ -57,7 +59,7 @@ variable2 = 2;
 variable3 = 3;
 
 // b. Hint: This function needs a name after the word function.
-function hello() {
+function sayHello() {
   console.log("Hello!");
 }
 
